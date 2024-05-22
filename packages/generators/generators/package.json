@@ -35,7 +35,7 @@
     "chalk": "4.1.2",
     "fs-extra": "10.0.0",
     "node-plop": "0.26.3",
-    "plop": "2.7.6",
+    "plop": "3.0.0",
     "pluralize": "8.0.0"
   },
   "engines": {
